@@ -5,7 +5,7 @@
 
 ## Pitch
 **4 mots**: Hey - Mon - Ami - Patates
-**Phrase**: ...
+**Phrase**: Hey mon ami, tu aime ça manger des patates ?
 
 ## Founder(s)
 - [Prénom NOM](#LinkedIn) (Buisness)
