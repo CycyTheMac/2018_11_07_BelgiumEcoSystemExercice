@@ -1,6 +1,11 @@
 # Transurb
+<<<<<<< HEAD
+[Website](#) - [Facebook](#) - [LinkedIn](https://www.linkedin.com/company/transurb-technirail/)
+![Logo de l' entreprise](NoLogo.png)
+=======
 [Website](http://www.transurb.com/) - [Facebook](https://www.facebook.com/transurb1/) - [LinkedIn](#) - [Twitter](#)  
 ![Logo de l' entreprise](http://technirail.transurb.com/sites/all/themes/transurbtechnirail/img/logo.png)
+>>>>>>> 39ee079fc910551b6f86b4e173855d5d0335c48c
 ## Pitch
 **4 mots**: Hey - Mon - Ami - Patates
 **Phrase**: ...
